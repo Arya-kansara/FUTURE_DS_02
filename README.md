@@ -124,5 +124,3 @@ Overall Churn Trend across Tenure (Line Chart).
 > Two-Year contract customers churn at 0% in their first year.
 > The product works — customers just need to commit longer.
 
-🔗 LinkedIn: [Your LinkedIn URL]
-🔗 Task 1 Project: [FUTURE_DS_01 GitHub Link]
