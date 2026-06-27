@@ -1,0 +1,19 @@
+tenure_groups,Contract,Total,Churned,churned_Rate,Retention_Rate
+0-12 Months,Month-to-month,1994,1024,51.35,48.65
+0-12 Months,One year,124,13,10.48,89.52
+0-12 Months,Two year,68,0,0.0,100.0
+13-24 Months,Month-to-month,737,278,37.72,62.28
+13-24 Months,One year,197,16,8.12,91.88
+13-24 Months,Two year,90,0,0.0,100.0
+25-36 Months,Month-to-month,486,158,32.51,67.49
+25-36 Months,One year,250,20,8.0,92.0
+25-36 Months,Two year,96,2,2.08,97.92
+37-48 Months,Month-to-month,316,106,33.54,66.46
+37-48 Months,One year,268,35,13.06,86.94
+37-48 Months,Two year,178,4,2.25,97.75
+49-60 Months,Month-to-month,234,65,27.78,72.22
+49-60 Months,One year,321,44,13.71,86.29
+49-60 Months,Two year,277,11,3.97,96.03
+61-72 Months,Month-to-month,108,24,22.22,77.78
+61-72 Months,One year,313,38,12.14,87.86
+61-72 Months,Two year,986,31,3.14,96.86
